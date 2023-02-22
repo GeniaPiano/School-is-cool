@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ba9fc4e-6913-4c89-93f5-868f8808c301" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/icons/delete-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/molecules/UsersListItem/UserListItem.styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/molecules/UsersListItem/UsersListItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UsersList/UsersList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/organisms/UsersList/UsersList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UsersListItem/UsersListItem.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/users.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Root.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Root.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +56,8 @@
       <updated>1676927190448</updated>
       <workItem from="1676927193584" duration="18129000" />
       <workItem from="1677057140206" duration="1357000" />
-      <workItem from="1677058829373" duration="13919000" />
+      <workItem from="1677058829373" duration="14247000" />
+      <workItem from="1677083010780" duration="888000" />
     </task>
     <servers />
   </component>
@@ -90,12 +82,6 @@
           <url>file://$PROJECT_DIR$/src/assets/styles/theme.js</url>
           <line>5</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/components/organisms/UsersList/UsersList.js</url>
-          <line>3</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
