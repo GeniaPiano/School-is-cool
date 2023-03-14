@@ -1,26 +1,26 @@
 export const users = [
   {
-    name: 'Adam Romański',
+    name: 'Natalia Wrońska',
     attendance: '39%',
     average: '2.3',
   },
   {
-    name: 'Jakub Sztaba',
+    name: 'Alicja Kaszuba',
     attendance: '29%',
-    average: '4.1',
+    average: '4.9',
   },
   {
-    name: 'Antoni Bujalski',
+    name: 'Antoni Fiołek',
     attendance: '35%',
     average: '2.3',
   },  {
     name: 'Bartosz Długi',
     attendance: '35%',
-    average: '2.3',
+    average: '1.3',
   },
   {
-    name: 'Tadeusz Lipiński',
-    average: '2.3',
+    name: 'Weronika Drozdowska',
+    average: '3.3',
   },
 ]
 
