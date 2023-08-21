@@ -1,0 +1,21 @@
+
+.homepage{
+    margin: 20px;
+}
+
+.homepage h1 {
+    text-align: center;
+
+}
+
+.article {
+    padding: 20px 0;
+}
+.article h3 {
+    color: #1a4aa8;
+}
+
+.article h5{
+    font-style: italic;
+    color: dimgrey;
+}
